@@ -8,3 +8,4 @@ _Fraud detection is a set of processes that allow businesses (financial domain) 
 
 [GitHub Repo](https://github.com/DeepenKumarSahoo/fraud_detection)
 
+<center><img src="assets/img/Fraud_detection_pic.jpg "/></center>
